@@ -1,0 +1,16 @@
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\bin\Release\quanlybaohiem.exe.config
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\bin\Release\quanlybaohiem.exe
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\bin\Release\quanlybaohiem.pdb
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\bin\Release\quanlybaohiem.xml
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.vbprojResolveAssemblyReference.cache
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.Form1.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.Form2.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.form3.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.Resources.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.themmoisua.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.tracuuhopdong.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.tracuukyhan.resources
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.vbproj.GenerateResource.Cache
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.exe
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.xml
+E:\TINHOCNGANHANG\tinhocnganhang\quanlybaohiem\obj\Release\quanlybaohiem.pdb
